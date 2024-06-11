@@ -506,6 +506,10 @@ th {
         margin-right: 20px;
     }
 }
+.site-nav .page-link:hover {
+    color: #fab81b;
+}
+
 .post-list {
     margin-left: 0;
     list-style: none;
