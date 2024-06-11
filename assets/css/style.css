@@ -855,6 +855,7 @@ a:hover {
 }
 .main-content p {
     margin-bottom: 1em;
+	text-align: justify;
 }
 .main-content code {
     padding: 2px 4px;
