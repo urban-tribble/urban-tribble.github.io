@@ -696,6 +696,7 @@ a:hover {
     box-shadow: none;
     background: 0 0;
     border: 2px solid #f25322;
+	margin: 0 10px 0px 10px;
 }
 
 .button-secondary:after {
