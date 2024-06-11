@@ -542,6 +542,8 @@ body {
     font-size: 16px;
     line-height: 1.5;
     color: #606c71;
+	background-color: #1C1C1E;
+	background-image: url("../images/sparkles.png");
 }
 #skip-to-content {
     height: 1px;
