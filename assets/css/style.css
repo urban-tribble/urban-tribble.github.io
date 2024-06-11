@@ -562,11 +562,12 @@ body {
     outline: thick solid #e19447;
 }
 a {
-    color: #1e6bb8;
+    color: #f25322;
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+	color: #FF7E00;
+    text-decoration: none;
 }
 
 .btn {
@@ -749,8 +750,8 @@ a:hover {
 .main-content h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-weight: normal;
-    color: #159957;
+    font-weight: bold;
+    color: #f9f5e1;
 }
 .main-content p {
     margin-bottom: 1em;
