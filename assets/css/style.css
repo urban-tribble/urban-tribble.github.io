@@ -531,6 +531,10 @@ th {
 .post-link {
     display: block;
     font-size: 24px;
+	color: #e9e2bf;
+}
+.post-link:hover {
+    color: #fffbed;
 }
 * {
     box-sizing: border-box;
