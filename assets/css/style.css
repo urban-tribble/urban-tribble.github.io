@@ -421,6 +421,7 @@ th {
 }
 .site-title {
     font-size: 22.4px;
+	font-family: "MTSans-RegularCondensed";
     font-weight: 300;
     line-height: 54px;
     letter-spacing: -1px;
@@ -431,7 +432,7 @@ th {
 .site-title,
 .site-title:visited,
 .site-title:hover {
-    color: #159957;
+    color: #aaaaab;
     text-decoration: none;
 }
 .site-nav {
@@ -961,4 +962,17 @@ a:hover {
         width: 36px;
         height: 36px;
     }
+}
+@font-face {
+  font-family: 'MTSans-BoldCondensed';
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/MTSans-BoldCondensed.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: 'MTSans-RegularCondensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/MTSans-RegularCondensed.woff2") format('woff2');
 }
