@@ -445,8 +445,10 @@ th {
     display: none;
 }
 .site-nav .page-link {
-    color: #159957;
+    color: #aaaaab;
     line-height: 1.5;
+	font-weight: 700;
+	text-transform: uppercase;
 }
 .site-nav .page-link:not(:last-child) {
     margin-right: 20px;
