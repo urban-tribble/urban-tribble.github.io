@@ -649,6 +649,7 @@ a:hover {
     min-width: 180px;
     padding: 0 35px;
     white-space: nowrap;
+	margin: 0 10px 0px 10px;
 }
 
 .button:after {
@@ -689,6 +690,7 @@ a:hover {
 .button-small {
     min-width: 0;
     padding: 0 22px;
+	padding-top: 2px;
 }
 
 .button-secondary {
@@ -696,7 +698,6 @@ a:hover {
     box-shadow: none;
     background: 0 0;
     border: 2px solid #f25322;
-	margin: 0 10px 0px 10px;
 }
 
 .button-secondary:after {
